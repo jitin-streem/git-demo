@@ -4,4 +4,8 @@ This is the frist file in this repo.
 
 ##Website content
 
-Hello world
+Here are the website files:
+index.html
+
+Contents:
+Hello worlds
