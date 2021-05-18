@@ -2,8 +2,6 @@
 
 This is the frist file in this repo.
 
-##Ipsum Below
+##Website content
 
-Typing in whatever I want.
-
-Typing in some more!!
+Hello world
